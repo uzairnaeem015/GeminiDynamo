@@ -23,7 +23,7 @@ function App() {
   };
   return (
       <div className="App">
-        <h1> Youtube Link to Flash cards generator</h1>
+        <h1> Youtube Link to Flash Cards Generator</h1>
         <input 
           type = "text"
           placeholder="Paste youtube link here"
